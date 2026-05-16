@@ -1,5 +1,8 @@
 # 💫 About Me:
-High school student developer passionate about full-stack web development, robotics, and AI-powered software.<br>Founder and lead developer of Smart Inventory, a B2B SaaS inventory management platform built with React, Flask, MongoDB, and REST APIs.<br>Programming Lead for FRC Team 3739 Oakbotics, working with Java, WPILib, Limelight vision, swerve drive, and robot automation.<br>Experienced with Git, GitHub, Azure DevOps, CI/CD pipelines, DigitalOcean deployment, and OAuth integrations.<br>Interested in building clean, scalable software using domain-driven design, testing, and real-world engineering practices.<br>Always learning new technologies and improving through hands-on projects.
++ High school student developer passionate about full-stack web development, robotics, and AI-powered software.<br>Founder and lead developer of Smart Inventory, a B2B SaaS inventory management platform built with React, Flask, MongoDB, and REST APIs.
++ <br>Programming Lead for FRC Team 3739 Oakbotics, working with Java, WPILib, Limelight vision, swerve drive, and robot automation.<br>Experienced with Git, GitHub, Azure DevOps, CI/CD pipelines, DigitalOcean deployment, and OAuth integrations.
++ <br>Interested in building clean, scalable software using domain-driven design, testing, and real-world engineering practices.
++ <br>Always learning new technologies and improving through hands-on projects.
 
 
 ## 🌐 Socials:
